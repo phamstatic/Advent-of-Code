@@ -1,4 +1,4 @@
-fileName = "Day2/Input.txt"
+fileName = "2024/Day2/Input.txt"
 
 input = []
 
